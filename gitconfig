@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = alex4grivot√@gmail.com
+	name = Alexandre Grivot
